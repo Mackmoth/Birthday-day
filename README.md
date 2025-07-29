@@ -77,7 +77,7 @@
             <!-- Header -->
             <div class="text-center mb-6">
                 <h1 class="birthday-title text-4xl font-bold text-primary mb-2 pulse">Happy Birthday!</h1>
-                <h2 class="text-2xl font-['Pacifico'] text-secondary">Hassan Icon</h2>
+                <h2 class="text-2xl font-['Pacifico'] text-secondary">Ernest</h2>
             </div>
             
             <!-- Cake Image -->
